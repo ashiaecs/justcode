@@ -1,1 +1,1 @@
-# justcode
+You can contribute in any language any program which you want to and which is not present in the repository. Programs should be well indented and neat and clean. If comments are used then it's well and good otherwise without that it will work. But name should be meaningful and must relate to the programs you are adding.
